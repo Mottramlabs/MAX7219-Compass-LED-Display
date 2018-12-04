@@ -13,7 +13,7 @@ This compass style display has a two line 6 digit (3 plus 3) display using a MAX
 There are two demo sketches one for Arduino one for Wemos D1 Mini. Included in the demo folders are the MAX7219 library .h and .cpp files, but these could be removed if using the MAX7219 as an installed library. If the library is installed in the IDE replace the line below.
 
       #include "MAX7219_Compass.h"
-with
+                  with
       
       #include <MAX7219_Compass.h>
 
